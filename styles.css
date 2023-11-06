@@ -1,0 +1,18 @@
+a:visited{
+    color: rgb(55, 214, 214);
+}
+a:hover{
+    color: rgb(241, 78, 78);
+}
+a:active{
+    color: rgb(18, 19, 17);
+}
+.anchor{
+    text-decoration: wavy;
+    color: rgb(43, 226, 119);
+    cursor: copy;
+}
+p{
+    font: 1em sans-serif;
+    
+}
